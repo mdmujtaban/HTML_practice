@@ -1,0 +1,25 @@
+body{
+	background: lightblue;
+}
+h1{
+	color: red;
+	background: yellow;
+	border: 2px outset green;
+}
+bdo{ direction: rtl;
+
+}
+button{
+	mask-type: button
+
+}
+
+.rDiv{
+	border: outset red;
+	text-align: center;
+	background-color: green;
+}
+p {
+	font-size: 20px;
+
+}
